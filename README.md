@@ -11,7 +11,7 @@ The prototype of the platform includes data similar to the sales and finance dat
 
 The SQL tables include:
 Sales Header
-Sales Line Item
+Product
 Material Master
 Purchase Order
 Finance

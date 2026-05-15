@@ -12,3 +12,19 @@ The prototype of the platform includes data similar to the sales and finance dat
 The SQL tables include:
 Sales Header
 Sales Line Item
+Material Master
+Purchase Order
+Finance
+Production Inventory
+Billing Header
+Billing Line Item
+
+
+The NoSQL tables include:
+Engine Specifications
+Part Specifications
+Model Specifications
+Fuel Specifications
+Testing Specifications
+Tyre Specifications
+Performance Specifications

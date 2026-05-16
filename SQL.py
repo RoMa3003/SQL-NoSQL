@@ -1,2 +1,1 @@
-print(10)
-print(9)
+print(1+2)
